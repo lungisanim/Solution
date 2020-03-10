@@ -6,7 +6,7 @@ namespace Consola
         static void Main(string[] args)
         {
             string s = "Wow Example!";
-            int n = 12;
+            long n = 3000000000;
 
 
             Console.WriteLine(Utilities.jumbledString(s, n));

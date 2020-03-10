@@ -1,6 +1,6 @@
 ﻿namespace Consola
 {
-    class Utilities
+    public class Utilities
     {
         public static string jumbledString(string s, long n)
         {
